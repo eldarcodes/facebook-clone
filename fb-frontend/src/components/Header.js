@@ -27,7 +27,7 @@ export const Header = () => {
       </div>
       <div className="header__center">
         <div className="header__option ">
-          <HomeIcon fontsize="large" />
+          <HomeIcon />
         </div>
         <div className="header__option header__option--active">
           <FlagIcon />
